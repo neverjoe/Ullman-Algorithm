@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ##What's it?
 A homework project implemented in 2014.11~2014.12
 
@@ -20,4 +19,3 @@ Free.
 =======
 # Ullman-Algorithm
 A final project  of my graph data mining course.
->>>>>>> c32b07ca221f3cf8dbdd9fba3f6bd9303b3211fd
