@@ -10,7 +10,7 @@ Ullman Algorithm written in C++.
 ##TODO:
 
 `cd Ullman_Algorithm/Source_Code`
-'make (or make clean firstly)`
+`make (or make clean firstly)`
 `./ullman -database [file_name] -query [file_name] &> log`
 
 
